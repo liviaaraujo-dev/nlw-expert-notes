@@ -16,6 +16,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Tailwind CSS
 - Vite<br><br>
 
+![GitHub Logo](print.png)
 
 ## Instalar dependências
 
@@ -31,4 +32,3 @@ $ npm run dev
 ~~~
 
 
-![GitHub Logo](print.png)

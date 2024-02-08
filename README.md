@@ -1,6 +1,6 @@
 # Notes
-Aplicação de notas desenolvida durante o evento nlw expert da Rocketseat.<br>
-Apesar de ser uma aplição simples, existe uma função interessante, a crição de notas a partir da fala utlizando a api do navegador SpeechRecognition
+Aplicação de notas desenvolvida durante o evento nlw expert da Rocketseat.
+Consiste em salvar notas no local storage, permitindo seja possível gravar falando, foi implementada a função por meio da SpeechRecognition uma api disponível nos navegadores mais modernos.
 <br><br>
 
 ## Deploy no Netify
